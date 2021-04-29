@@ -1,0 +1,1 @@
+The first step was to find a suitable circuit to convert a 0V-3.3V square wave of variable duty cycle to a constant voltage. To do this, I used a second order lowpass filter as shown:
