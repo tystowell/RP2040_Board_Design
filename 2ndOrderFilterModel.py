@@ -1,3 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 dt = 0.000001
 time = .1
 samples = int(time//dt)
